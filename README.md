@@ -3,4 +3,4 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=gusrb3164&show_icons=true)
 
-[My company profile](https://github.com/hyeon-9yu)
+[🏢 My company profile](https://github.com/hyeon-9yu)
